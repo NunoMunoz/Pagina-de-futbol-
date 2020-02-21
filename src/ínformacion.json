@@ -1,0 +1,173 @@
+{
+    "informacion": [{
+            "date": "9/01",
+            "team": "U1 and U4",
+            "location": "AJ Katzenmaier",
+            "location_url": "https://goo.gl/maps/1hRq1Wm3ouagwJnX6",
+            "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5069.53772427779!2d-87.86432334809153!3d42.326027472187896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880f932fbc6ba7cd%3A0xcf2bbe275c6da815!2sA+J+Katzenmaier+Elementary+School!5e0!3m2!1ses!2ses!4v1562836438257!5m2!1ses!2ses",
+            "time": "9:30 a.m.",
+            "escudo": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/descarga.png?alt=media&token=54526d17-2c78-4a71-87f0-9f404ea91eab",
+            "escudo2": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/ba6ddf6ae1be258ed5d98004e611c11b.jpg?alt=media&token=a12d4f8a-8036-49bc-8b5c-48805c8c85cb"
+        },
+        {
+            "date": "9/01",
+            "team": "U3 and U2",
+            "location": "Greenbay",
+            "location_url": "https://goo.gl/maps/1qcVPv9q9yHMN6Xm7",
+            "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17055.07099218796!2d-87.85978031204975!3d42.31405873853676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x740a7a7d548adce1!2sGreenbay+Elementary+School+(K-5)!5e0!3m2!1ses!2ses!4v1562836360302!5m2!1ses!2ses",
+            "time": "1:00 p.m.",
+            "escudo": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/6015eea90512c89c2b7e11008d764ed7.jpg?alt=media&token=1329529b-5d9d-4d94-92b3-1fc042db70d6",
+            "escudo2": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/818MyUYdWaL._SY355_.jpg?alt=media&token=96026f89-a417-4498-abba-a36d009cf11a"
+        },
+        {
+            "date": "9/08",
+            "team": "U5 and U6",
+            "location": "Howard A Yeager",
+            "location_url": "https://goo.gl/maps/BKGN3bvS4RusEc4E8",
+            "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2950.2700626313836!2d-87.85606978458412!3d42.31543827918997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880feccac26b07c5%3A0x8b51fa5d6efe771a!2sHoward+A.+Yeager+School+(PREK-K)!5e0!3m2!1ses!2ses!4v1562836201591!5m2!1ses!2ses",
+            "time": "9:30 a.m.",
+            "escudo": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/53d7f65d09b82315132d11d94f3cf794.jpg?alt=media&token=8176a8e5-df07-406c-a418-23cca7b4781e",
+            "escudo2": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/946df4f2ad9a1ac963b162d97d64a041.jpg?alt=media&token=fab52c04-36c2-47f2-9357-ebe6be1ca2bc"
+        },
+        {
+            "date": "9/08",
+            "team": "U6 and U1",
+            "location": "Marjorie P Hart",
+            "location_url": "https://goo.gl/maps/dZ3uJVUz6x5wGVeE8",
+            "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.7203115701604!2d-87.8478786845837!3d42.327163879189115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fecd0628e1bb5%3A0x9a4d5f9aafd42e02!2sMarjorie+P+Hart+Elementary+School!5e0!3m2!1ses!2ses!4v1562836096391!5m2!1ses!2ses",
+            "time": "1:00 p.m.",
+            "escudo": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/946df4f2ad9a1ac963b162d97d64a041.jpg?alt=media&token=fab52c04-36c2-47f2-9357-ebe6be1ca2bc",
+            "escudo2": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/descarga.png?alt=media&token=54526d17-2c78-4a71-87f0-9f404ea91eab"
+        },
+        {
+            "date": "9/15",
+            "team": "U2 and U4",
+            "location": "North",
+            "location_url": "https://goo.gl/maps/FQQbb7tnWpsXAndA9",
+            "location_map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d23600.206874178846!2d-87.8573588!3d42.3206472!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x54f2728b0f77d756!2sNorth+Chicago+Community+High+School!5e0!3m2!1ses!2ses!4v1562959831737!5m2!1ses!2ses",
+            "time": "9:30 a.m.",
+            "escudo": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/818MyUYdWaL._SY355_.jpg?alt=media&token=96026f89-a417-4498-abba-a36d009cf11a",
+            "escudo2": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/ba6ddf6ae1be258ed5d98004e611c11b.jpg?alt=media&token=a12d4f8a-8036-49bc-8b5c-48805c8c85cb"
+        },
+        {
+            "date": "9/15",
+            "team": "U3 and U5",
+            "location": "AJ Katzenmaier",
+            "location_url": "https://goo.gl/maps/1hRq1Wm3ouagwJnX6",
+            "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.7810520615812!2d-87.8649287845838!3d42.325868479189225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880f932fbc6ba7cd%3A0xcf2bbe275c6da815!2sA+J+Katzenmaier+Elementary+School!5e0!3m2!1ses!2ses!4v1562765778777!5m2!1ses!2ses",
+            "time": "1:00 p.m.",
+            "escudo": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/6015eea90512c89c2b7e11008d764ed7.jpg?alt=media&token=1329529b-5d9d-4d94-92b3-1fc042db70d6",
+            "escudo2": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/53d7f65d09b82315132d11d94f3cf794.jpg?alt=media&token=8176a8e5-df07-406c-a418-23cca7b4781e"
+        },
+        {
+            "date": "9/22",
+            "team": "U1 and U3",
+            "location": "South",
+            "location_url": "https://goo.gl/maps/tbyjvb1wqqaiK5Ni8",
+            "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2950.1937089340827!2d-87.85678168458405!3d42.3170669791898!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880feccac2135a21%3A0x8ce88e90b96bbec1!2sSouth+Elementary+School!5e0!3m2!1ses!2ses!4v1562765813031!5m2!1ses!2ses",
+            "time": "9:30 a.m.",
+            "escudo": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/descarga.png?alt=media&token=54526d17-2c78-4a71-87f0-9f404ea91eab",
+            "escudo2": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/6015eea90512c89c2b7e11008d764ed7.jpg?alt=media&token=1329529b-5d9d-4d94-92b3-1fc042db70d6"
+        },
+        {
+            "date": "9/22",
+            "team": "U2 and U6",
+            "location": "Howard A Yeager",
+            "location_url": "https://goo.gl/maps/BKGN3bvS4RusEc4E8",
+            "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2950.2700626313836!2d-87.85606978458412!3d42.31543827918997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880feccac26b07c5%3A0x8b51fa5d6efe771a!2sHoward+A.+Yeager+School+(PREK-K)!5e0!3m2!1ses!2ses!4v1562836201591!5m2!1ses!2ses",
+            "time": "1:00 p.m.",
+            "escudo": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/818MyUYdWaL._SY355_.jpg?alt=media&token=96026f89-a417-4498-abba-a36d009cf11a",
+            "escudo2": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/946df4f2ad9a1ac963b162d97d64a041.jpg?alt=media&token=fab52c04-36c2-47f2-9357-ebe6be1ca2bc"
+        },
+        {
+            "date": "9/29",
+            "team": "U4 and U5",
+            "location": "Greenbay",
+            "location_url": "https://goo.gl/maps/1qcVPv9q9yHMN6Xm7",
+            "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17055.07099218796!2d-87.85978031204975!3d42.31405873853676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x740a7a7d548adce1!2sGreenbay+Elementary+School+(K-5)!5e0!3m2!1ses!2ses!4v1562836360302!5m2!1ses!2ses",
+            "time": "9:30 a.m.",
+            "escudo": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/ba6ddf6ae1be258ed5d98004e611c11b.jpg?alt=media&token=a12d4f8a-8036-49bc-8b5c-48805c8c85cb",
+            "escudo2": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/53d7f65d09b82315132d11d94f3cf794.jpg?alt=media&token=8176a8e5-df07-406c-a418-23cca7b4781e"
+        },
+        {
+            "date": "10/06",
+            "team": "U2 and U5",
+            "location": "Marjorie P Hart",
+            "location_url": "https://goo.gl/maps/dZ3uJVUz6x5wGVeE8",
+            "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.7203115701604!2d-87.8478786845837!3d42.327163879189115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fecd0628e1bb5%3A0x9a4d5f9aafd42e02!2sMarjorie+P+Hart+Elementary+School!5e0!3m2!1ses!2ses!4v1562765640604!5m2!1ses!2ses",
+            "time": "9:30 a.m.",
+            "escudo": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/818MyUYdWaL._SY355_.jpg?alt=media&token=96026f89-a417-4498-abba-a36d009cf11a",
+            "escudo2": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/53d7f65d09b82315132d11d94f3cf794.jpg?alt=media&token=8176a8e5-df07-406c-a418-23cca7b4781e"
+        },
+        {
+            "date": "10/06",
+            "team": "U1 and U6",
+            "location": "South",
+            "location_url": "https://goo.gl/maps/tbyjvb1wqqaiK5Ni8",
+            "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2950.1937089340827!2d-87.85678168458405!3d42.3170669791898!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880feccac2135a21%3A0x8ce88e90b96bbec1!2sSouth+Elementary+School!5e0!3m2!1ses!2ses!4v1562765813031!5m2!1ses!2ses",
+            "time": "1:00 p.m.",
+            "escudo": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/descarga.png?alt=media&token=54526d17-2c78-4a71-87f0-9f404ea91eab",
+            "escudo2": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/946df4f2ad9a1ac963b162d97d64a041.jpg?alt=media&token=fab52c04-36c2-47f2-9357-ebe6be1ca2bc"
+        },
+        {
+            "date": "10/08",
+            "team": "U3 and U4",
+            "location": "Howard A Yeager",
+            "location_url": "https://goo.gl/maps/BKGN3bvS4RusEc4E8",
+            "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2950.2700626313836!2d-87.85606978458412!3d42.31543827918997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880feccac26b07c5%3A0x8b51fa5d6efe771a!2sHoward+A.+Yeager+School+(PREK-K)!5e0!3m2!1ses!2ses!4v1562765545414!5m2!1ses!2ses",
+            "time": "9:30 a.m.",
+            "escudo": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/6015eea90512c89c2b7e11008d764ed7.jpg?alt=media&token=1329529b-5d9d-4d94-92b3-1fc042db70d6",
+            "escudo2": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/ba6ddf6ae1be258ed5d98004e611c11b.jpg?alt=media&token=a12d4f8a-8036-49bc-8b5c-48805c8c85cb"
+        },
+        {
+            "date": "10/08",
+            "team": "U5 and U1",
+            "location": "Greenbay",
+            "location_url": "https://goo.gl/maps/1qcVPv9q9yHMN6Xm7",
+            "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17055.07099218796!2d-87.85978031204975!3d42.31405873853676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x740a7a7d548adce1!2sGreenbay+Elementary+School+(K-5)!5e0!3m2!1ses!2ses!4v1562836360302!5m2!1ses!2ses",
+            "time": "1:00 p.m.",
+            "escudo": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/53d7f65d09b82315132d11d94f3cf794.jpg?alt=media&token=8176a8e5-df07-406c-a418-23cca7b4781e",
+            "escudo2": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/descarga.png?alt=media&token=54526d17-2c78-4a71-87f0-9f404ea91eab"
+        },
+        {
+            "date": "10/20",
+            "team": "U6 and U3",
+            "location": "North",
+            "location_url": "https://goo.gl/maps/FQQbb7tnWpsXAndA9",
+            "location_map": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d23600.206874178846!2d-87.8573588!3d42.3206472!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x54f2728b0f77d756!2sNorth+Chicago+Community+High+School!5e0!3m2!1ses!2ses!4v1562959831737!5m2!1ses!2ses",
+            "time": "9:30 a.m.",
+            "escudo": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/946df4f2ad9a1ac963b162d97d64a041.jpg?alt=media&token=fab52c04-36c2-47f2-9357-ebe6be1ca2bc",
+            "escudo2": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/6015eea90512c89c2b7e11008d764ed7.jpg?alt=media&token=1329529b-5d9d-4d94-92b3-1fc042db70d6"
+        },
+        {
+            "date": "10/20",
+            "team": "U2 and U4",
+            "location": "Marjorie P Hart",
+            "location_url": "https://goo.gl/maps/dZ3uJVUz6x5wGVeE8",
+            "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.7203115701604!2d-87.8478786845837!3d42.327163879189115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880fecd0628e1bb5%3A0x9a4d5f9aafd42e02!2sMarjorie+P+Hart+Elementary+School!5e0!3m2!1ses!2ses!4v1562765640604!5m2!1ses!2ses",
+            "time": "1:00 p.m.",
+            "escudo": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/818MyUYdWaL._SY355_.jpg?alt=media&token=96026f89-a417-4498-abba-a36d009cf11a",
+            "escudo2": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/ba6ddf6ae1be258ed5d98004e611c11b.jpg?alt=media&token=a12d4f8a-8036-49bc-8b5c-48805c8c85cb"
+        },
+        {
+            "date": "10/27",
+            "team": "U3 and U1",
+            "location": "AJ Katzenmaier",
+            "location_url": "https://goo.gl/maps/1hRq1Wm3ouagwJnX6",
+            "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.7810520615812!2d-87.8649287845838!3d42.325868479189225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880f932fbc6ba7cd%3A0xcf2bbe275c6da815!2sA+J+Katzenmaier+Elementary+School!5e0!3m2!1ses!2ses!4v1562765778777!5m2!1ses!2ses",
+            "time": "9:30 a.m.",
+            "escudo": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/6015eea90512c89c2b7e11008d764ed7.jpg?alt=media&token=1329529b-5d9d-4d94-92b3-1fc042db70d6",
+            "escudo2": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/descarga.png?alt=media&token=54526d17-2c78-4a71-87f0-9f404ea91eab"
+        },
+        {
+            "date": "10/27",
+            "team": "U5 and U6",
+            "location": "Howard A Yeager",
+            "location_url": "https://goo.gl/maps/BKGN3bvS4RusEc4E8",
+            "location_map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2950.2700626313836!2d-87.85606978458412!3d42.31543827918997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880feccac26b07c5%3A0x8b51fa5d6efe771a!2sHoward+A.+Yeager+School+(PREK-K)!5e0!3m2!1ses!2ses!4v1562765545414!5m2!1ses!2ses",
+            "time": "1:00 p.m.",
+            "escudo": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/53d7f65d09b82315132d11d94f3cf794.jpg?alt=media&token=8176a8e5-df07-406c-a418-23cca7b4781e",
+            "escudo2": "https://firebasestorage.googleapis.com/v0/b/miapp-3dd76.appspot.com/o/946df4f2ad9a1ac963b162d97d64a041.jpg?alt=media&token=fab52c04-36c2-47f2-9357-ebe6be1ca2bc"
+        }
+    ]
+}
